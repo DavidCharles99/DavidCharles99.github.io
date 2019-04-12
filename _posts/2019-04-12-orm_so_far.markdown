@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "ORM so far "
+date:       2019-04-12 23:13:59 +0000
+permalink:  orm_so_far
+---
+
+
+Well structured, effecent code is more than just complex specific objects, it's also how those object interacts with outside data. ORM helps with this, specificly by helping objects talk to each other. Objects and databases are totally different in ruby, one is logic and data rapped up as a metophrical lego piece, the other is a spreadsheet organizing text and integers in a table. these two things, worlds apart from each other in terms of structure must talk to each other and do it easily. 
+
+In order for and object to talk to a database it must do it in a way it understands. ORM allows you to represent your db query as a string in ruby and then takes that string as truns it into a legitimate query that the db understands. Ruby understands strings db's understand DDL. 
+
+
