@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: David Charles
+title: Bitsmart
 header-img: img/home-bg.png
 email: ratlover03@gmail.com
-copyright_name: DavidCharles99
+copyright_name: David Charles
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journal 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DavidCharles99
-learn_profile: DavidCharles99
-email_username: ratlover03@gmail.com
 
 # Build settings
 markdown: kramdown
